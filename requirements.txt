@@ -1,6 +1,4 @@
 Flask
 Gunicorn
 flask_socketio
-request
-jsonify
-openai
+

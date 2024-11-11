@@ -1,7 +1,6 @@
 Flask
 Gunicorn
 flask_socketio
-render_template
 request
 jsonify
 openai
